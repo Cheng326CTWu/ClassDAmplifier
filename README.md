@@ -39,9 +39,6 @@ This section will outline the progress of the various aspect for this project.
 | Functionality Verification    | Not Started           |
 
 ## Bill of Material
-### Through-Hole PCB
-
-**Coming Soon**
 
 ### SMD PCB
 
