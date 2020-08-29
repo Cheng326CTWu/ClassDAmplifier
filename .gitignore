@@ -1,0 +1,5 @@
+*.log
+*.plt
+*.raw
+*.fft
+*.net
